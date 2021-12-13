@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardodcr;
-- 👀 I’m interested in software development, music, airplanes;
+- 👀 I’m interested in software development, music, airplanes, F1;
 - 🌱 I’m currently learning Unity, Salesforce, Flutter...
 - 💞️ I’m looking to collaborate on anything cool;
 - 📫 How to reach me - leonardo.dcr@gmail.com.
